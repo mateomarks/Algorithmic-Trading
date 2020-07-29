@@ -7,4 +7,6 @@ You can find more info at my blog [Road2Quant](https://www.road2quant.com/catego
 ## Index
 1. [Simple Moving Average Strategy](./01%20Simple%20Moving%20Average.ipynb)
 2. [Intro to Machine Learning Based Strategies](./02%20ML%20Based%20Strategies.ipynb)
+3. [Neuronal Network based Trading Strategy](./03%20NN%20Strategy.ipynb)
+
 
