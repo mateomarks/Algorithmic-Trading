@@ -4,6 +4,7 @@
     <img src="https://uploads-ssl.webflow.com/5eae007d92687089219c5dec/5eb47da29ced78042e9768ce_long_logo.png" target="_blank"  border="0" width="35%"><br>
   </a>
 </div>
+
 -----------------
 
 # Algorithmic Trading
